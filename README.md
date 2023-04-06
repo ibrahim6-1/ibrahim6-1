@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/7uKoZuX9f8UAAAAC/flutterguide-flutter.gif)
+
 <h1 align="center">Hi 👋, I'm İbrahim Balta</h1>
 <h3 align="center">A passionate flutter developer from Turkey</h3>
 <img align="right" alt="Code" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
